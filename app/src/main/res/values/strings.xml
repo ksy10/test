@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">testApp</string>
+    <string name="comma">,</string>
 </resources>
